@@ -6,7 +6,7 @@
   "author": "John Reilly <johnny_reilly@hotmail.com> ",
   "license": "ISC",
   "dependencies": {
-    "fork-ts-checker-webpack-plugin": "0.2.0",
+    "fork-ts-checker-webpack-plugin": "0.4.7",
     "ts-loader": "^2.0.3",
     "typescript": "^2.2.2"
   }
