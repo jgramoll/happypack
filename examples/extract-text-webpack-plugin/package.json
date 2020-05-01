@@ -19,6 +19,12 @@
     "react": "^15.3.0",
     "react-dom": "^15.3.0",
     "sass-loader": "^4.0.0",
-    "style-loader": "^0.13.1"
-  }
+    "style-loader": "^0.13.1",
+    "snyk": "^1.316.1"
+  },
+  "scripts": {
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
+  },
+  "snyk": true
 }
