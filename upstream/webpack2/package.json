@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "dependencies": {
     "extract-text-webpack-plugin": "2.1.2",
-    "webpack": "2.7.0"
+    "webpack": "3.11.0"
   }
 }
